@@ -1,0 +1,10 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
